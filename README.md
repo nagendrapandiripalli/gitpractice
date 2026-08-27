@@ -1,2 +1,1 @@
-# My First Git Project
-Learning Git step by step.
+# Ultimate Git Learning Lab
