@@ -1,1 +1,1 @@
-# Ultimate Git Learning Lab
+# Ultimate Git Learning Lab - Awesome Edition
